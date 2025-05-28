@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nandani Arora"
+  site-url: https://nandaniarora.github.io/Nandani/
   navbar:
     left:
       - text: About Me
