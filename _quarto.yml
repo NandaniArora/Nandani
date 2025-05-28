@@ -21,6 +21,15 @@ website:
         href: Contact.qmd
       - text: Leadership & Community Service
         href: Leadership.qmd
+
+
+  format:
+  html:
+    theme: cosmo
+    toc: true
+    navbar:
+      background: "#ffffff"
+      fixed: true
   
 
 
